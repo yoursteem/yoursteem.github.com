@@ -1,8 +1,11 @@
-## Useful websites for steemit by [@lostmine27](https://steemit.com/@lostmine27)
-TEST !!!
-You can use the [editor on GitHub](https://github.com/yoursteem/yoursteem.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Useful websites for steemit by [@lostmine27](https://steemit.com/@lostmine27)
+If you have a website you would like to add, please let me know.
+## For kr users (South Korea)
+Please visit this link for more information. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## For all users (around the world)
+Please visit this link for more information. 
 
 ### Markdown
 
