@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Useful websites for steemit (by @lostmine27)
 TEST !!!
 You can use the [editor on GitHub](https://github.com/yoursteem/yoursteem.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
