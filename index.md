@@ -1,28 +1,29 @@
-# Useful websites for steemit by [@lostmine27](https://steemit.com/@lostmine27)
-If you have a website you would like to add, please let me know.
-## For kr users (South Korea)
-Please visit this link for more information. 
+# Useful websites for steemit 
+by [@lostmine27](https://steemit.com/@lostmine27), If you have a website you would like to add, please let me know.
+
+## For kr users only (South Korea)
+
+
+
+
+
+
+
+
+
+
+
+
+_Please visit this link for more information._
+
+
+
+
+
 
 
 ## For all users (around the world)
-Please visit this link for more information. 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+_Please visit this link for more information._
 
 **Bold** and _Italic_ and `Code` text
 
