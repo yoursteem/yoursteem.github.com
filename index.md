@@ -1,21 +1,15 @@
 # Useful websites for steemit 
-by [@lostmine27](https://steemit.com/@lostmine27), If you have a website you would like to add, please let me know.
+by [@lostmine27](https://steemit.com/@lostmine27), If you have a website you would like to add, please let me know.<hr>
 
 ## For kr users only (South Korea)
+_Please visit this link for more information **in Korean.**(Under construction)_
 
-
-
-
-
-
-
-
-
-
-
-
-_Please visit this link for more information._
-
+https://steemkr.com/
+https://pixabay.com/ko/
+https://www.ddengle.com
+https://www.coinhills.com/ko/
+https://www.steemus.com/
+https://blockchain.info/ko
 
 
 
@@ -23,7 +17,32 @@ _Please visit this link for more information._
 
 
 ## For all users (around the world)
-_Please visit this link for more information._
+_Please visit this link for more information **in English.**(Under construction)_
+https://steemit.com
+https://busy.org
+http://steem.supply/
+https://steemnow.com
+https://steemnow.com/upvotecalc.html
+https://steemstats.com
+https://ianpark.github.io/steeme/
+http://tool.steem.world/Post/Mentioned
+https://whattomine.com/
+https://alpha.steepshot.io
+https://coinmarketcap.com
+https://steemd.com/
+https://imgur.com/
+https://reddit.com
+https://pixabay.com
+https://www.bitcoinmining.com/
+https://steemdata.com/
+https://netbusinessrating.com
+http://steemtools.com/
+https://poolprofit.io/en/
+
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
